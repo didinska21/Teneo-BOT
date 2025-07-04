@@ -1,0 +1,6 @@
+markdown-it-py
+mdurl
+Pygments
+python-socks
+rich
+websockets
